@@ -8,7 +8,7 @@ This extension will collect any channel points.
 
 In the profile settings, you can enable or disable the Extension:
 
-![readme_screen.png]([Twitch%20Points%20Grabber%20d29f383caf20424bb829dbc56c40aa2f/readme_screen.png](https://github.com/Mene-hub/Twitch-Points-Grabber/blob/main/screen/readme_screen.png))
+![readme_screen.png](https://github.com/Mene-hub/Twitch-Points-Grabber/blob/main/screen/readme_screen.png)
 
 ### Debugging
 
