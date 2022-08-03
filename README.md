@@ -1,4 +1,4 @@
-# Twitch Points Grabber ![](https://img.shields.io/badge/microsoft%20store%20users-413--blueviolet/?logo=microsoftedge&style=for-the-badge)
+# Twitch Points Grabber ![](https://img.shields.io/badge/microsoft%20store%20users-413-blueviolet/?logo=microsoftedge&style=for-the-badge)
 
 It’s an extension for edge, is aviable in the **[microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/twitch-points-grabber/neogiolcgikjffanekkhendpeedoiika).**
 
