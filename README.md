@@ -1,10 +1,9 @@
-# Twitch Points Grabber ![](https://img.shields.io/badge/microsoft%20store%20users-564-blueviolet/?logo=microsoftedge&style=for-the-badge)
+![bannerr](https://user-images.githubusercontent.com/72011313/187684623-178434ce-479c-4a14-976d-96abef84fb7c.png)
+![](https://img.shields.io/badge/microsoft%20store%20users-564-purple/?logo=microsoftedge&style=for-the-badge)
 
 It’s an extension for edge, is aviable in the **[microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/twitch-points-grabber/neogiolcgikjffanekkhendpeedoiika).**
 
 This extension will collect any channel points.
-
-![logo](https://user-images.githubusercontent.com/72011313/187684518-068a0d33-34bb-4ab1-8d02-16c9b09d9fda.png)
 
 
 ### Settings
