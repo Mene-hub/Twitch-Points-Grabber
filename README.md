@@ -5,6 +5,8 @@ It’s an extension for edge, aviable on **[microsoft Edge Add-ons](https://micr
 
 This extension will collect any channel points.
 
+### compatibility
+
 
 ### Settings
 
