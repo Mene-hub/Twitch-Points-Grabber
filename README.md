@@ -7,6 +7,8 @@ This extension will collect any channel points.
 
 ### compatibility
 
+![compatibilità](https://user-images.githubusercontent.com/72011313/187687988-1f8bea0e-54ae-4a91-b777-775ef157bd2e.png)
+
 
 ### Settings
 
