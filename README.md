@@ -4,7 +4,8 @@ It’s an extension for edge, is aviable in the **[microsoft Edge Add-ons](https
 
 This extension will collect any channel points.
 
-![image](http://claudio.menegotto.unaux.com/assets/img/avatars/twitch.svg)
+![logo](https://user-images.githubusercontent.com/72011313/187684518-068a0d33-34bb-4ab1-8d02-16c9b09d9fda.png)
+
 
 ### Settings
 
