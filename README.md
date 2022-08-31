@@ -14,7 +14,7 @@ In the profile settings, you can enable or disable the Extension:
 
 ### Debugging
 
-Downloading the source code you can use the extension also on chrome and debug it.
+Downloading the source code, you can also use it on chrome, firefox, edge or debug it.
 
 ### Chrome:
 
