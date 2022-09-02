@@ -1,5 +1,10 @@
 ![bannerr](https://user-images.githubusercontent.com/72011313/187684623-178434ce-479c-4a14-976d-96abef84fb7c.png)
+
 ![](https://img.shields.io/badge/microsoft%20store%20users-564-purple/?logo=microsoftedge&style=for-the-badge)
+
+![](https://img.shields.io/badge/firefox%20users-0-orange?style=for-the-badge&logo=firefox)
+
+![Mozilla Add-on](https://img.shields.io/amo/stars/%7B36081b63-1e8c-4a93-a678-da561e7719e7%7D?color=orange&label=firefox&logo=firefox&style=for-the-badge)
 
 It’s an extension for edge, aviable on **[microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/twitch-points-grabber/neogiolcgikjffanekkhendpeedoiika).**
 
