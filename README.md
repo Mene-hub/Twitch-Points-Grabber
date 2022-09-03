@@ -6,7 +6,8 @@
 
 ![Mozilla Add-on](https://img.shields.io/amo/stars/%7B36081b63-1e8c-4a93-a678-da561e7719e7%7D?color=orange&label=firefox&logo=firefox&style=for-the-badge)
 
-It’s an extension for edge, aviable on **[microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/twitch-points-grabber/neogiolcgikjffanekkhendpeedoiika).**
+Add-on aviable on **[microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/twitch-points-grabber/neogiolcgikjffanekkhendpeedoiika),**
+**[Frefox Add-on Store](https://addons.mozilla.org/it/firefox/addon/twitch-points-grabber/)**
 
 This extension will collect any channel points.
 
