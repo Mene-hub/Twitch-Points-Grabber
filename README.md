@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/microsoft%20store%20users-564-purple/?logo=microsoftedge&style=for-the-badge)
 
-![](https://img.shields.io/badge/firefox%20users-0-orange?style=for-the-badge&logo=firefox)
+![](https://img.shields.io/badge/firefox%20users-1-orange?style=for-the-badge&logo=firefox)
 
 ![Mozilla Add-on](https://img.shields.io/amo/stars/%7B36081b63-1e8c-4a93-a678-da561e7719e7%7D?color=orange&label=firefox&logo=firefox&style=for-the-badge)
 
