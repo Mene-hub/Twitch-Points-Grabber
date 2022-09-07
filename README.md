@@ -1,6 +1,6 @@
 ![bannerr](https://user-images.githubusercontent.com/72011313/187684623-178434ce-479c-4a14-976d-96abef84fb7c.png)
 
-![](https://img.shields.io/badge/microsoft%20store%20users-564-purple/?logo=microsoftedge&style=for-the-badge)
+![](https://img.shields.io/badge/microsoft%20store%20users-602-purple/?logo=microsoftedge&style=for-the-badge)
 
 ![](https://img.shields.io/badge/firefox%20users-2-orange?style=for-the-badge&logo=firefox)
 
