@@ -1,7 +1,5 @@
 ![bannerr](https://user-images.githubusercontent.com/72011313/187684623-178434ce-479c-4a14-976d-96abef84fb7c.png)
 
-![](https://img.shields.io/badge/microsoft%20store%20users-668-purple/?logo=microsoftedge&style=for-the-badge)
-
 Add-on aviable on **[microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/twitch-points-grabber/neogiolcgikjffanekkhendpeedoiika),**
 **[Frefox Add-on Store](https://addons.mozilla.org/it/firefox/addon/twitch-points-grabber/)**
 
