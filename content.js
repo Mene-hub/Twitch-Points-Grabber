@@ -68,10 +68,10 @@ checkSettings();
 
     if(grabbedEnabled){
       try{
-        if(document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-0")[0] != null){
+        if(document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-5")[0] != null){
           for(i = 0; i < langKeys.length; i++){
-            if(document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-0")[0].getAttribute("aria-label") == langKeys[i]){
-              document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-0")[0].click();
+            if(document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-5")[0].getAttribute("aria-label") == langKeys[i]){
+              document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-5")[0].click();
               localStorage.setItem("grabbed", parseInt(localStorage.getItem("grabbed")) + 50);
               document.getElementsByTagName("points")[0].innerHTML = " Today's points: " + localStorage.getItem("grabbed");
             }
