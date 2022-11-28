@@ -2,11 +2,11 @@
 
   "name": "Twitch Points Grabber",
 
-  "version": "2.3",
+  "version": "2.4",
 
   "description": "automatic poits grabber for twitch, works with all supported langauges on twitch",
 
-  "manifest_version": 3,
+  "manifest_version": 2,
 
   "author": "Mene-hub",
 
