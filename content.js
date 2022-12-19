@@ -36,48 +36,49 @@ checkSettings();
 
   //on body child changed
   function observate() {
-    
-    var myMenu = null;
+    if(document.getElementsByClassName("logged-in").length > 0){
+      var myMenu = null;
 
-    if(document.getElementsByClassName("kbnJum").length > 0){
-      if(document.getElementsByClassName("kbnJum").length > 1){
-        for( var i = 0; i<document.getElementsByClassName("kbnJum").length; i++){
-          if(document.getElementsByClassName("kbnJum")[i].parentElement.getAttribute("class") == "simplebar-content"){
-            myMenu = document.getElementsByClassName("kbnJum")[i];
-          }
-        }
-      }else{
-        if(document.getElementsByClassName("kbnJum")[0].parentElement.getAttribute("class") == "simplebar-content"){
-            myMenu = document.getElementsByClassName("kbnJum")[0];
-        }else{
-          myMenu == null;
-        }
-      }
-
-    }
-
-    if(!injectedmenu && myMenu != null ){
-      injectedmenu = true;
-      checkSettings();
-      injectSettings(myMenu);
-    }else{
-      if(injectedmenu && myMenu == null){
-        injectedmenu = false;
-      }
-    }
-
-    if(grabbedEnabled){
-      try{
-        if(document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-5")[0] != null){
-          for(i = 0; i < langKeys.length; i++){
-            if(document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-5")[0].getAttribute("aria-label") == langKeys[i]){
-              document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-5")[0].click();
-              localStorage.setItem("grabbed", parseInt(localStorage.getItem("grabbed")) + 50);
-              document.getElementsByTagName("points")[0].innerHTML = " Today's points: " + localStorage.getItem("grabbed");
+      if(document.getElementsByClassName("kbnJum").length > 0){
+        if(document.getElementsByClassName("kbnJum").length > 1){
+          for( var i = 0; i<document.getElementsByClassName("kbnJum").length; i++){
+            if(document.getElementsByClassName("kbnJum")[i].parentElement.getAttribute("class") == "simplebar-content"){
+              myMenu = document.getElementsByClassName("kbnJum")[i];
             }
           }
+        }else{
+          if(document.getElementsByClassName("kbnJum")[0].parentElement.getAttribute("class") == "simplebar-content"){
+              myMenu = document.getElementsByClassName("kbnJum")[0];
+          }else{
+            myMenu == null;
+          }
         }
-      }catch(e){}
+
+      }
+
+      if(!injectedmenu && myMenu != null ){
+        injectedmenu = true;
+        checkSettings();
+        injectSettings(myMenu);
+      }else{
+        if(injectedmenu && myMenu == null){
+          injectedmenu = false;
+        }
+      }
+
+      if(grabbedEnabled){
+        try{
+          if(document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-5")[0] != null){
+            for(i = 0; i < langKeys.length; i++){
+              if(document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-5")[0].getAttribute("aria-label") == langKeys[i]){
+                document.getElementsByClassName("ScCoreButtonSuccess-sc-ocjdkq-5")[0].click();
+                localStorage.setItem("grabbed", parseInt(localStorage.getItem("grabbed")) + 50);
+                document.getElementsByTagName("points")[0].innerHTML = " Today's points: " + localStorage.getItem("grabbed");
+              }
+            }
+          }
+        }catch(e){}
+      }
     }
   }
 
